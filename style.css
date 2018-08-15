@@ -1,0 +1,30 @@
+body {
+	background-color: #D06289;
+	width:100%;
+}
+.p-rating {
+	font-size: 4em;
+	width: 500px;
+	
+}
+
+.rating-container {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    position: absolute;
+    top: 250px;
+    left: 850px;
+}
+
+.star {
+	width:100px;
+	direction: ltr;
+	 font-size: 4em;
+  	 color: black;
+}
+
+.checked {
+	color: yellow;
+
+}

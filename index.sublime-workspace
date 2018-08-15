@@ -1,0 +1,705 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"rectang",
+				"rectangles"
+			],
+			[
+				"argume",
+				"argumentsNum"
+			],
+			[
+				"numA",
+				"numArray"
+			],
+			[
+				"numa",
+				"numArray"
+			],
+			[
+				"array",
+				"arrayOfStrings"
+			],
+			[
+				"wordre",
+				"wordReverse1"
+			],
+			[
+				"transmog",
+				"transmogrifier"
+			],
+			[
+				"reach",
+				"reachGoalOne"
+			],
+			[
+				"random",
+				"randomnumF"
+			],
+			[
+				"getele",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
+			],
+			[
+				"rando",
+				"randomNum"
+			],
+			[
+				"rand",
+				"randomNum"
+			],
+			[
+				"ro",
+				"round\t( x: number ): number Math"
+			],
+			[
+				"parse",
+				"parseInt\t( s: string, radix: int ): int Global"
+			],
+			[
+				"Parse",
+				"parseInt\t( s: string, radix: int ): int Global"
+			],
+			[
+				"inneran",
+				"innerAnswer2"
+			],
+			[
+				"inner",
+				"innerAnswer1"
+			],
+			[
+				"new",
+				"newName"
+			],
+			[
+				"prom",
+				"prompt"
+			],
+			[
+				"function",
+				"function_with_name"
+			],
+			[
+				"if",
+				"if_else"
+			],
+			[
+				"gete",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"newit",
+				"newItemText"
+			],
+			[
+				"create",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"add",
+				"addEventListener\t( type: DOMString, callback: EventListener, capture?: boolean ): void EventTarget"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"clas",
+				"className\t: DOMString Element"
+			],
+			[
+				"geteleme",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Document"
+			],
+			[
+				"appe",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"units",
+				"unitsSold"
+			],
+			[
+				"curren",
+				"currentAlbum"
+			],
+			[
+				"albu",
+				"albumNames"
+			],
+			[
+				"gru",
+				"grungeAlbumsObject"
+			],
+			[
+				"gr",
+				"grungeAlbumsObject"
+			],
+			[
+				"json",
+				"JSON_parse\t( json: string ): any JSON"
+			],
+			[
+				"fa",
+				"famousLine"
+			],
+			[
+				"func",
+				"function_without_name"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"fu",
+				"function_without_name"
+			],
+			[
+				"light",
+				"lightOrDark"
+			],
+			[
+				"bas",
+				"baseballVendor"
+			],
+			[
+				"fun",
+				"function_without_name"
+			],
+			[
+				"cars",
+				"cardsInPlay"
+			],
+			[
+				"cards",
+				"cardsInPlay"
+			],
+			[
+				"favo",
+				"favoriteMovie"
+			],
+			[
+				"movie",
+				"moviePhrase"
+			],
+			[
+				"type",
+				"typeOfExercise"
+			],
+			[
+				"case",
+				"case"
+			],
+			[
+				"buy",
+				"buyingDecision"
+			],
+			[
+				"else",
+				"else_if"
+			],
+			[
+				"scr",
+				"source\tTag"
+			],
+			[
+				"str",
+				"stringgg"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"styl",
+				"font-style"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"bottom",
+				"border-bottom"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "au",
+		"selected_items":
+		[
+			[
+				"au",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"auto",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"ht\t",
+				"HTMLBeautify"
+			],
+			[
+				"aut",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sa",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html\t",
+				"HTMLBeautify"
+			],
+			[
+				"auto\t",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"a",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"save",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: dele",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"sav",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"SAV",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"htmlb",
+				"HTMLBeautify"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"beay",
+				"HTMLBeautify"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"bui",
+				"Build With: Chrome"
+			],
+			[
+				"",
+				"Build With: Chrome"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"bo",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Noa/Desktop/dev/etch-a-sketch/jquery-3.3.1.js",
+		"/C/Users/Noa/Desktop/dev/WDI-13-dailies/w3/d1_intro_to_jquery/starter_code/jquery_practice/readme.md",
+		"/C/Users/Noa/Desktop/dev/threadly/threadly-jquery/script.js",
+		"/C/Users/Noa/Desktop/dev/jquery practice/index.html",
+		"/C/Users/Noa/Desktop/dev/jquery practice/css/style.css",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w02d03/student_labs/memory_starter/index.html",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w02d03/morning_exercise/index.html",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w05d01/homework/images/home-bloghero.png",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w05d03/student_labs/css_color_box/index.html",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w05d03/student_labs/css_color_box/styles.css",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w02d03/homework/hw-solution.js",
+		"/C/Users/Noa/Desktop/atl-wdi-10/labs/unit_01/javaScript/js-dice/starter-code/js/app.js",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w02d03/student_labs/memory_starter/js/app.js",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w02d03/morning_exercise/main.css",
+		"/C/Users/Noa/Desktop/dev/cssstuff/wendybite.html",
+		"/C/Users/Noa/Desktop/dev/cssstuff/wendy-bite-style.css",
+		"/C/Users/Noa/Desktop/atl-wdi-10/layout-games-master/layout-games-master/part1.html",
+		"/C/Users/Noa/Desktop/dev/miniGallery/index.html",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w02d02/homework/countdown.js",
+		"/C/Users/Noa/Desktop/dev/miniGallery/style.css",
+		"/C/Users/Noa/Desktop/dev/miniGallery/script.js",
+		"/C/Users/Noa/Desktop/dev/miniGallery/script1.js",
+		"/C/Program Files/Sublime Text 3/Packages/Color Scheme - Default.sublime-package",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w02d02/homework/spec/hw-spec.js",
+		"/C/Users/Noa/Desktop/atl-wdi-10/labs/unit_01/javaScript/js-dice/starter-code/index.html",
+		"/C/Users/Noa/Desktop/dev/ga-homework/dom/dom-hw-lord-of-the-rings-master/stylesheets/style.css",
+		"/C/Users/Noa/Desktop/atl-wdi-10/labs/unit_01/javaScript/js-dice/starter-code/css/style.css",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w02d02/student_labs/independent_click_events/bulls_eye_game/style.css",
+		"/C/Users/Noa/Desktop/dev/ga-homework/dom/dom-hw-lord-of-the-rings-master/scripts/fellowship1.js",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w02d02/student_labs/independent_click_events/bulls_eye_game/app.js",
+		"/C/Users/Noa/Desktop/dev/ga-homework/dom/dom-hw-lord-of-the-rings-master/index.html",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w02d02/student_labs/independent_click_events/bulls_eye_game/index.html",
+		"/C/Users/Noa/Desktop/dev/ga-homework/dom/dom-hw-lord-of-the-rings-master/scripts/fellowship.js",
+		"/C/Users/Noa/Desktop/dev/cllickevents.html",
+		"/C/Users/Noa/Desktop/JS practice/cloneprank.html",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w02d02/student_labs/independent_click_events/traffic_light/style.css",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w02d02/student_labs/independent_click_events/traffic_light/index.html",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w02d02/student_labs/independent_click_events/traffic_light/app.js",
+		"/C/Program Files/Sublime Text 3/Packages/Default.sublime-package",
+		"/C/Program Files/Sublime Text 3/Packages/Theme - Default.sublime-package",
+		"/C/Users/Noa/Desktop/dev/ga-homework/dom/tic-tac-toe board/jsttt1.js",
+		"/C/Users/Noa/Desktop/dev/ga-homework/dom/tic-tac-toe board/jsttt1.html",
+		"/C/Users/Noa/Desktop/dev/ga-homework/dom/tic-tac-toe board/jsttt.js",
+		"/C/Users/Noa/Desktop/dev/ga-homework/dom/tic-tac-toe board/jsttt.html",
+		"/C/Users/Noa/Desktop/dev/ga-homework/99problems.js",
+		"/C/Users/Noa/Desktop/dev/ga-homework/99problems.html",
+		"/C/Users/Noa/Desktop/dev/ga-homework/dom/index.html",
+		"/C/Users/Noa/Desktop/dev/ga-homework/dom/ttt.css",
+		"/C/Users/Noa/Desktop/dev/style.css",
+		"/C/Users/Noa/Desktop/dev/index.html",
+		"/C/Users/Noa/Desktop/dev/busy-hands-master/busy-hands-master/busy-hands-html-css-lab/css/style.css",
+		"/C/Users/Noa/Desktop/dev/busy-hands-master/busy-hands-master/busy-hands-html-css-lab/index.html",
+		"/C/Users/Noa/Desktop/dev/ga-homework/experiments.js",
+		"/C/Users/Noa/Desktop/dev/ga-homework/datamodelingjs.js",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w01d04/homework/hw.js",
+		"/C/Users/Noa/Desktop/dev/classwork.js",
+		"/C/Users/Noa/Desktop/dev/ga-homework/js-hw-basics-data-types/script.js",
+		"/C/Users/Noa/Desktop/dev/ga-homework/js-hw-basics-data-types/index.html",
+		"/C/Users/Noa/AppData/Roaming/Sublime Text 3/Packages/auto-save/README.md",
+		"/C/Users/Noa/AppData/Roaming/Sublime Text 3/Packages/auto-save/Default (Windows).sublime-keymap",
+		"/C/Users/Noa/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w01d02/homework/classwork.js",
+		"/C/Users/Noa/Desktop/dev/fundamentals/memory_game/index.html",
+		"/C/Users/Noa/Desktop/dev/fundamentals/memory_game/js/main.js",
+		"/C/Users/Noa/Desktop/dev/fundamentals/memory_game/css/style.css",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w01d02/student_labs/choose_your_own_adventure/starter/script.js",
+		"/C/Users/Noa/Desktop/atl-wdi-10/unit_01/w01d02/student_labs/choose_your_own_adventure/starter/index.html",
+		"/C/Users/Noa/Desktop/test.js",
+		"/C/Users/Noa/Desktop/learning/fundamentals/memory_game/index.html",
+		"/C/Users/Noa/Desktop/learning/fundamentals/memory_game/css/style.css",
+		"/C/Users/Noa/Desktop/learning/fundamentals/memory_game/js/main.js",
+		"/C/Users/Noa/Desktop/learning/fundamentals/practice.css",
+		"/C/Users/Noa/Desktop/learning/fundamentals/jspractice.html",
+		"/C/Users/Noa/AppData/Roaming/Sublime Text 3/Packages/BracketFlasher/BracketFlasher.sublime-settings",
+		"/C/Users/Noa/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings",
+		"/C/Users/Noa/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript-Completions.sublime-settings",
+		"/C/Users/Noa/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Noa/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/Noa/Desktop/learning/fundamentals/header nav practice/style.css",
+		"/C/Users/Noa/Desktop/learning/fundamentals/header nav practice/index.html",
+		"/C/Users/Noa/Desktop/learning/fundamentals/verticalnav.html",
+		"/C/Users/Noa/Desktop/learning/fundamentals/style-verticalnav.css",
+		"/C/Users/Noa/AppData/Roaming/Sublime Text 3/Packages/QuickLinks/QuickLinks.sublime-settings",
+		"/C/Users/Noa/AppData/Roaming/Sublime Text 3/Packages/HexViewer/Default (Windows).sublime-keymap",
+		"/C/Users/Noa/Desktop/learning/fundamentals/memory_game/style.css",
+		"/C/Users/Noa/Desktop/learning/DemoProject/css/style.css",
+		"/C/Users/Noa/Desktop/learning/DemoProject/style.css",
+		"/C/Users/Noa/Desktop/learning/DemoProject/index.html",
+		"/C/Users/Noa/AppData/Roaming/Sublime Text 3/Packages/HexViewer/hex_viewer.sublime-settings",
+		"/C/Users/Noa/Desktop/learning/DemoProject/style",
+		"/C/Users/Noa/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Noa/AppData/Roaming/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/C/Users/Noa/Desktop/learning/hackeru.html",
+		"/C/Users/Noa/Desktop/learning/courserapractice.html",
+		"/C/Users/Noa/fundamentals/memory_game/index.html",
+		"/C/Users/Noa/Documents/ספרים וקורסים מצולמים - WEB/learning/ga sublime practice.html",
+		"/C/Users/Noa/coursera-test/site/bla.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
